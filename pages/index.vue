@@ -2,6 +2,6 @@
 </script>
 <template>
   <div>
-    main page
+    <h1>Landing</h1>
   </div>
 </template>
