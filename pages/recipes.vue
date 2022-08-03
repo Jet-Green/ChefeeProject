@@ -4,5 +4,6 @@
         <NuxtLink to="/camera">
             <v-btn>СФОТОГРАФИРОВАТЬ!</v-btn>
         </NuxtLink>
+        <Search />
     </div>
 </template>
